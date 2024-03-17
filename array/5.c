@@ -29,6 +29,7 @@ int main()
            printf("%d\t",a[i][c]);
             
         }
+        printf("\n");
         }
     }
     return 0;
