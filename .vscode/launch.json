@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/girip/OneDrive/Desktop/lab/lab1",
-      "program": "c:/Users/girip/OneDrive/Desktop/lab/lab1/build/Debug/outDebug",
+      "cwd": "c:/Users/girip/OneDrive/Desktop/lab",
+      "program": "c:/Users/girip/OneDrive/Desktop/lab/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
