@@ -18,10 +18,10 @@ int main()
         {
             printf("Yes there is the number\n");
             printf("it was the %dth inputed number",i);
-        }
+        } 
         else{
-            printf("There is no such number entered!!!!")
-        }
+            printf("There is no such number entered!!!!\n");
+        }  
     }
     return 0;
     getch();
